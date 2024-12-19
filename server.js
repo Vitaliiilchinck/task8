@@ -24,7 +24,7 @@ io.on('connection', (socket) => {
   });
 });
 
-// Start the server on port 2953
-server.listen(2953, () => {
-  console.log('Server running on http://localhost:2953');
+// Start the server on port 2109
+server.listen(2109, () => {
+  console.log('Server running on http://localhost:2109');
 });
